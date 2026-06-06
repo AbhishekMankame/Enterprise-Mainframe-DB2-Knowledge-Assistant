@@ -14,3 +14,7 @@ If you can build a simple rule-based system that doesn't require machine learnin
 - <b> When the traditional approach is a better option</b> - if you can accomplish what you need with a simple rule-based system.
 - <b> When errors are unacceptable</b> - since the outputs of deep learning model aren't always predicatable.
 - <b> When you don't have much data</b> - deep learning models usually require a fairly large amount of data to produce great results.
+
+
+### What are Neural Networks?
+A neural network is a computational model made up of interconnected processing units (neurons) arranged in layers, which learn to recognize relationships and patterns in data by adjusting the strengths of their connections during training.
